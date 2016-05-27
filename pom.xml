@@ -27,5 +27,6 @@
 
   <modules>
     <module>RestApp</module>
+    <module>RestClient</module>
   </modules>
 </project>
